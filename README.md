@@ -17,7 +17,6 @@
 | WarpTools | 与warp相关的一些工具 | [LINK](https://github.com/JeleonX/CFTools/tree/main/WarpTools) |
 | aotoplan | 通过CF创建计划任务，用于一些保活项目，带可视化面板 | [LINK](https://github.com/JeleonX/CFTools/tree/main/aotoplan) |
 | auto-add | 定时自动访问指定的网页 | [LINK](https://github.com/JeleonX/CFTools/tree/main/auto-add) |
-| cloud-note | 搭建一个云记事本 | [LINK](https://github.com/JeleonX/CFTools/tree/main/cloud-note) |
 | cohere2openai | 将 Cohere API 转换为 OpenAI API | [LINK](https://github.com/JeleonX/CFTools/tree/main/cohere2openai) |
 | file-share | 一个轻量级的文件分享工具和在线剪贴板 | [LINK](https://github.com/JeleonX/CFTools/tree/main/file-share) |
 | get-url-icon | 从任意URL获取图标直链 | [LINK](https://github.com/JeleonX/CFTools/tree/main/get-url-icon) |
